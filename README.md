@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png](https://github.com/Btm253/Btm253/blob/main/banner.png)" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/Btm253/Btm253/blob/main/banner.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <h1 align="center">Hi 👋, I'm Brendan Morrow</h1>
 <h3 align="center">A passionate molecular biologist at Mississippi State University</h3>
