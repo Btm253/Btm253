@@ -1,4 +1,4 @@
-[![My Image](my-image.png)]
+![My Image](my-image.png)
 
 <h1 align="center">Hi 👋, I'm Brendan Morrow</h1>
 <h3 align="center">A passionate molecular biologist at Mississippi State University</h3>
