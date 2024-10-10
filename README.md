@@ -1,21 +1,49 @@
-<img src="https://github.com/Btm253/Btm253/blob/main/banner.png" alt="banner that says Brendan Morrow - PhD Student alongside St. Jude Children's Research Hospital logo">
+# Hi there 👋, I'm Brendan!
 
-<h1 align="center">Hi 👋, I'm Brendan Morrow</h1>
-<h3 align="center">A passionate molecular biologist at Mississippi State University</h3>
+<!-- Profile Views Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
-- 🔭 I’m currently working on **enviromental effects of the pathogens involved in bovine respiatory disease (BRD)**
+<!-- Intro Section -->
+I'm currently a **PhD student** at **St. Jude Children's Research Hospital**, where I focus on **viral/bacterial co-infections**. I'm passionate about understanding complex host-pathogen interactions and developing innovative methods for **virome analysis**.
 
-- 🌱 I’m currently learning **R, python, and bash**
+I primarily work with **R**, **SHELL**, and **Python**, and I'm always exploring new ways to harness these tools in bioinformatics. My goal is to contribute to the scientific community by advancing our understanding of viromes and their role in health and disease.
 
-- 📫 How to reach me **btm253@msstate.edu**
+## 🔧 Technologies & Tools
+- **Languages:** R, Shell scripting, Python
+- **Bioinformatics Tools:** BWA, VarScan, Samtools, Trim Galore, SNPeff
+- **Data Analysis & Visualization:** Tidyverse, ggplot2, Shiny
+- **Operating Systems:** Linux, MacOS
+- **Version Control:** Git, GitHub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bmorrow_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bmorrow_10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brendantmorrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendantmorrow" height="30" width="40" /></a>
-</p>
+## 🔭 What I'm currently working on
+- **PhD Research**: Investigating viral and bacterial co-infections using computational methods.
+- **Virome Analysis**: Developing new methods for virome analysis in complex infection models.
+- **Learning**: Exploring metagenomics tools and techniques to enhance viral sequencing data interpretation.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌱 What I want to learn next
+- Machine learning applications in virome analysis
+- Advanced Python libraries for bioinformatics
+- Metagenomics and long-read sequencing analysis techniques
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 👨‍💻 Projects
+| Project Name | Description | Tech Stack | Link |
+| ------------ | ----------- | ---------- | ---- |
+| [Virome Analysis Pipeline] | Developing a pipeline for virome analysis | R, Shell, Python | [GitHub Repo] |
+| [Bacterial Co-Infection Analysis] | Analyzing bacterial co-infection in viral samples | Python, Samtools | [GitHub Repo] |
+
+## 🤝 Connect with me
+- [LinkedIn](https://linkedin.com/in/brendantmorrow)
+- [Email](mailto:brendan.morrow@stjude.org)
+
+## 📝 Latest Blog Posts
+- [Post 1](#)
+- [Post 2](#)
+
+## ⚡ Fun Fact
+I love learning about viral evolution and the ways viruses manipulate their hosts at the molecular level.
+
 
 
